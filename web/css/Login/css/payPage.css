@@ -1,0 +1,163 @@
+@charset "utf-8";
+/* CSS Document */
+
+.pay-header-container{ height:113px; overflow:hidden; text-align:left; background-image: url(../img/pay-bg-1.jpg); background-repeat: repeat-x; background-position: center top; }
+.pay-header-container .pay-header-content{width:990px; margin:0 auto; height:86px;}
+.pay-header-container .pay-header-content .pay-logo{padding-top:12px; width:350px; height:70px; overflow:hidden;}
+.pay-header-container .pay-header-content .pay-logo a{ display:block; width:350px; height:70px; overflow:hidden; background-image: url(../img/pay-logo-3.png); background-repeat: no-repeat; }
+.pay-header-container .pay-header-content .pay-logo a h1{display:none}
+.pay-login-outer{ width:960px; margin:0 auto; text-align:left; padding-top:0px; min-height:450px; _height:400px; background-image: url(../img/pay-bg-3.jpg); background-repeat: no-repeat; background-position: left 20px; }
+.pay-login-main{float:right; width:344px; height:387px; border:solid 2px #e6e5e5; margin-right:60px; margin-top:20px; background:#fff}
+.pay-footer-container{border-top:solid 1px #e6e5e5; padding-top:15px; height:58px; text-align:center}
+.pay-inner-hei{height:86px; overflow:hidden; border-bottom:solid 0px #ee7700; background:#000;}
+.pay-header-container .pay-header-content .pay-logo-2{padding-top:8px; width:60px; height:73px; overflow:hidden;}
+.pay-header-container .pay-header-content .pay-logo-2 a{ display:block; width:60px; height:73px; overflow:hidden; background-image: url(../img/pay-logo-6.png); background-repeat: no-repeat; }
+.pay-header-container .pay-header-content .pay-logo-2 a h1{display:none}
+.pay-header-container .pay-header-content .pay-logo-4{padding-top:12px; width:290px; height:70px; overflow:hidden;}
+.pay-header-container .pay-header-content .pay-logo-4 a{ display:block; width:290px; height:70px; overflow:hidden; background-image: url(../img/pay-logo-4.png); background-repeat: no-repeat; background-position:20px 0px; }
+.pay-header-container .pay-header-content .pay-logo-4 a h1{display:none}
+
+.pay-header-container .pay-header-content .pay-logo-8{padding-top:12px; width:290px; height:70px; overflow:hidden;}
+.pay-header-container .pay-header-content .pay-logo-8 a{ display:block; width:290px; height:70px; overflow:hidden; background-image: url(../img/pay-logo-8.png); background-repeat: no-repeat; background-position:20px 0px; }
+.pay-header-container .pay-header-content .pay-logo-8 a h1{display:none}
+
+.pay-header-container .pay-header-content .pay-logo-9{padding-top:12px; width:290px; height:70px; overflow:hidden;}
+.pay-header-container .pay-header-content .pay-logo-9 a{ display:block; width:290px; height:70px; overflow:hidden; background-image: url(../img/pay-logo-9.png); background-repeat: no-repeat; background-position:20px 0px; }
+.pay-header-container .pay-header-content .pay-logo-9 a h1{display:none}
+
+.pay-navigation{padding-top:41px; width:605px;}
+.pay-navigation ul li{float:left;margin-right:2px; display:inline;}
+.pay-navigation ul li,.pay-navigation ul li a,.pay-navigation ul li a:hover{display:block; width:92px; height:45px;}
+.pay-navigation ul li a.pay-inquiryBar{background:url(../img/pay-bg-nav.jpg) no-repeat left top;}
+.pay-navigation ul li a.pay-inquiryBar:hover{background-position:left -45px;}
+.pay-navigation ul li a.pay-inquiryBar-current{background:url(../img/pay-bg-nav.jpg) no-repeat left -90px;}
+.pay-navigation ul li a.pay-accountBar{background:url(../img/pay-bg-nav.jpg) no-repeat -94px top;}
+.pay-navigation ul li a.pay-accountBar:hover{background-position:-94px -45px;}
+.pay-navigation ul li a.pay-accountBar-current{background:url(../img/pay-bg-nav.jpg) no-repeat -94px -90px;}
+.pay-navigation ul li a.pay-managementBar{background:url(../img/pay-bg-nav.jpg) no-repeat -372px top;}
+.pay-navigation ul li a.pay-managementBar:hover{background-position:-372px -45px;}
+.pay-navigation ul li a.pay-managementBar-current{background:url(../img/pay-bg-nav.jpg) no-repeat -372px -90px;}
+.pay-navigation ul li a.pay-diy{background:url(../img/pay-bg-nav.jpg) no-repeat -279px top;}
+.pay-navigation ul li a.pay-diy:hover{background-position:-279px -45px;}
+.pay-navigation ul li a.pay-diy-current{background:url(../img/pay-bg-nav.jpg) no-repeat -279px -90px;}
+
+.pay-navigation ul li a.pay-download{background:url(../img/pay-bg-nav.jpg) no-repeat -466px top; width:102px;}
+.pay-navigation ul li a.pay-download:hover{background-position:-466px -45px;width:102px;}
+.pay-navigation ul li a.pay-download-current{background:url(../img/pay-bg-nav.jpg) no-repeat -466px -90px;width:102px;}
+.pay-navigation ul li a.pay-business{background:url(../img/pay-bg-nav.jpg) no-repeat -567px top;width:119px;}
+.pay-navigation ul li a.pay-business:hover{background-position:-567px -45px;width:119px;}
+.pay-navigation ul li a.pay-business-current{background:url(../img/pay-bg-nav.jpg) no-repeat -567px -90px;width:119px;}
+
+.pay-navigation ul li a.pay-manualBar{background:url(../img/pay-bg-nav.jpg) no-repeat -288px top;}
+.pay-navigation ul li a.pay-manualBar:hover{background-position:-288px -45px;}
+.pay-navigation ul li a.pay-manualBar-current{background:url(../img/pay-bg-nav.jpg) no-repeat -288px -90px;}
+.pay-header-container .toleft{margin-left:0px; width:100%;}
+
+.pay-navigation-wz{padding-top:41px; float:left}
+.pay-navigation-wz ul li{float:left;margin-right:2px;}
+.pay-navigation-wz ul li a.pay_nav_de{display:block; padding-left:12px; padding-right:12px; height:45px; line-height:45px; text-align:center; color:#fff; font-size:13px;}
+.pay-navigation-wz ul li a.pay_nav_de:hover{display:block; padding-left:12px; padding-right:12px; height:45px; line-height:45px; text-align:center; color:#000; font-size:13px; background:#fff; text-decoration:none}
+a.pay_nav_wz,a.pay_nav_wz:hover{display:block; padding-left:12px; padding-right:12px; height:45px; line-height:45px; text-align:center; color:#000; font-size:13px; background:#fff; text-decoration:none}
+
+
+.pay-UserDIV{padding-right:15px; padding-top:55px; color:#fff;}
+a.pay-quit{color:#447bd6;}
+a.pay-quit:hover{color:#ee7700;}
+.pay-user-name{color:#ee7700}
+.numberBox{height:27px; line-height:27px; width:92px;}
+.numberBox:hover,.numberBox:focus,.numberBox-error{height:25px; line-height:25px; width:90px; background:none}
+.pay-calendarBox,.pay-calendarBox:hover,.pay-calendarBox:focus{background:url(../img/skin/calendar-bg.png) no-repeat right 0; line-height:27px;}
+.pay-calendarBox{ width:85px; height:27px;}
+.pay-calendarBox:hover,.pay-calendarBox:focus{ width:83px; height:25px;}
+.pay-width{width:100%}
+.pay-mar{padding-left:10px; padding-right:10px;}
+.pay-marginWidth{margin-right:5px;}
+.dd-wz{text-align:left; font-weight:bold; padding-bottom:10px; font-size:16px;}
+.pay-add-k{padding-top:16px; padding-bottom:20px;}
+.pay-add-k table{border:solid 1px #e3e3e3; boder-right:none}
+.pay-add-k table tr td{border-bottom:solid 1px #e3e3e3; border-right:solid 1px #e3e3e3; padding:8px; font-size:14px;}
+.zc_pay{font-size:26px; color:#666; padding-top:12px; padding-left:15px; font-weight:bold; margin-top:18px; border-left:solid 1px #c7c7c7; margin-left:15px; padding-bottom:13px;}
+.pay_sys{padding-left:8px; padding-right:8px;}
+.pay_sys_title{font-size:14px; font-weight:bold; border-bottom:solid 1px #f0f0f0; padding-bottom:8px; padding-left:10px;}
+.pay_sys_wei{text-align:center; padding-top:10px; padding-bottom:15px; font-size:14px;}
+.pay_jiange{height:20px;}
+.pay_pading{padding:15px;}
+.pay_login_ad{text-align:center; padding-top:10px; border-top:solid 1px #f0f0f0;}
+.pay_sys_tips{color:#ff0000; border:solid 1px #ff5151; background:#ffdbdb; padding:5px 10px 5px 10px;}
+.pay_padding_l{padding-left:200px;}
+.ui-list-pay tr td{padding-top:0px}
+.ui-list-pay{margin-bottom:15px;}
+.pay_card_p{padding:8px; background:#f3f3f3;}
+.pay_pic_border{border:solid 1px #d2d2d2;}
+.fw_list{background:#f3f3f3; border:solid 1px #d2d2d2; padding:12px;}
+.fw_list h2{font-size:14px; border-bottom:solid 1px #dedede; height:28px;}
+.fw_list h2 span{color:#ec7800}
+.fw_list ul{padding-top:15px;}
+.fw_list ul li{float:left; height:28px; line-height:28px; overflow:hidden}
+.pay_list_fw1{width:290px;}
+.pay_list_fw2{width:140px;}
+.pay_sys_1{font-size:14px; text-align:center; padding-top:50px;}
+.pay_sys_2{font-size:14px; padding-left:8px;}
+.pay_sys_3{color:#fff; padding-left:8px; font-size:14px;}
+.pay_sys_4{}
+.pay_sys_4 tr td{padding:10px 5px 10px 8px; border-bottom:solid 1px #e3e3e3}
+.pay_sys_5{color:#ee7600; font-size:14px; font-weight:bold}
+.ykt_img{vertical-align:middle;}
+.pay_sys_6{color:#CCC;}
+.pay_sys_list{}
+.pay_sys_list ul li{float:left; width:200px; margin-right:65px;         text-align:center; margin-bottom:30px; }
+.list_pay_div1{padding-top:20px; height:233px; background:#465568; color:#fff;}
+.pay_p_1{height:104px; display:block; margin-bottom:15px;}
+.pay_p_2{display:block; padding-bottom:10px; font-size:14px; font-weight:bold}
+.pay_p_3{color:#b7c6d9; display:block; padding-left:10px; padding-right:10px;}
+.pay_p_4{background:url(../img/bg_1.png) repeat-x; height:35px; border:solid 1px #cbcbcb; text-align:center; line-height:35px;}
+.pay_p_5{border-right:solid 1px #cbcbcb}
+.pay_p_6{font-size:14px;}
+.pay_down{border:solid 1px #e2e2e2; padding:40px 0px 40px 50px;width:1090px; margin:0 auto }
+.pay_download_list{}
+.pay_download_list ul li{width:250px; text-align:center; background:#465568; font-size:12px; color:#fff; margin-right:10px; float:left}
+.download_div_1{padding-top:20px; padding-bottom:20px;}
+.download_div_2{text-align:left; padding-left:55px; padding-right:35px; padding-bottom:20px;}
+.pay_bg{background:#FFF;}
+.kjs{background:#eef5fc; border:solid 2px #bcd4ec; padding:20px 30px; font-size:16px; margin-bottom:20px;}
+.kjs_1{font-size:12px; padding-left:12px;}
+.kjs_2{padding-right:20px;}
+.receSum{height:32px; line-height:32px; width:120px;}
+.search_w{padding-bottom:20px;}
+.trade_list{border:solid 1px #e2e2e2;}.ui-pay-content{border:solid 1px #cccccc;}
+.ui-pay-content h2{ height:38px; line-height:38px; padding-left:12px; font-size:15px; font-weight:bold; border-bottom:solid 1px #cccccc; border-top:dashed 1px #cccccc}
+.ui-pay-content h2 p{font-weight:normal; padding-right:20px;}
+.ui-pay-content h2 span.stt{color:#ff000;}
+.ui-i-pay-title{color:#4d4d4d; font-size:14px;font-weight:bold}
+.each-pay-r{padding-top:20px; padding-bottom:25px;}
+.ui-i-pay tr td{padding-bottom:20px; padding-top:8px}
+.pay-red{color:#F00; padding-right:8px; display:inline-block; font-size:15px;}
+.ui-pay-tips-r{padding-top:7px; padding-left:5px; color:#999999}
+.pay-error-i{background:url(../img/ico-pa.png) no-repeat -129px -414px; padding-left:20px; color:#ff0000; padding-top:5px}
+.limi-bankList-r{border:solid 1px #dfdfdf; padding:15px; width:585px; padding-right:0px; padding-bottom:0px; position:relative; _margin-top:-7px;}
+.limi-bankList-r span{width:110px; height:28px;  overflow:hidden; float:left; margin-right:30px; margin-bottom:20px;}
+.pix-2-r{position:absolute; top:-7px; left:50px; z-index:999;}
+.see-more-bank-r{padding:6px 0px 10px 5px;}
+.see-more-bank-r a{color:#0077ff;}
+.see-more-bank-r a:hover{color:#0077ff; text-decoration:underline;}
+.xieyi{background:#ffff9d; border:solid 1px #e7c560; padding:8px}
+.ppp-red{color:#ff0000}
+.ziti{font-size:14px; font-weight:bold; color:#333; line-height:30px;}
+.ui-list-icons{}
+.ui-list-icons li{float:left; margin-right:25px; margin-bottom:20px;}
+.user-info-register{height:27px; line-height:27px; font-size:14px; width:195px; padding-left:5px;}
+.user-info-register-company{height:27px; line-height:27px; font-size:14px; width:225px; padding-left:5px;}
+.user-info-register-add{height:27px; line-height:27px; font-size:14px; width:355px; padding-left:5px;}
+.register-stop-one{background:url(../img/process-bg-3.jpg) no-repeat; height:29px; margin:0 auto; margin-bottom:15px; width:797px; border:solid 2px #fff;}
+.register-stop-two{background:url(../img/process-bg-4.jpg) no-repeat; height:29px; margin:0 auto; margin-bottom:15px; width:797px; border:solid 2px #fff;}
+.register-stop-three{background:url(../img/process-bg-5.jpg) no-repeat; height:29px; margin:0 auto; margin-bottom:15px; width:797px; border:solid 2px #fff;}
+.steps-char{height:29px; line-height:29px; width:260px; text-align:center;}
+.steps-white{color:#fff;}
+.user-info-seclet{height:27px; line-height:27px; font-size:14px; width:203px; padding-left:5px;}
+.user-info-seclet-2{height:27px; line-height:27px; font-size:14px; width:153px; padding-left:5px;}
+.user-info-addr{height:27px; line-height:27px; font-size:14px; width:310px; padding-left:5px;}
+.user-info-wt{height:27px; line-height:27px; font-size:14px; width:302px; padding-left:5px;}
+.kjs_3{padding-left:25px; font-size:14px;}.kjs_4{padding-left:0px; font-size:14px;}
+.kjs_5{font-size:14px; font-weight:bold; padding-bottom:12px;}
+.fqwtjs{width:960px; margin:0 auto;}
+.jia_ann{height:60px; padding-top:15px; padding-left:35%}
